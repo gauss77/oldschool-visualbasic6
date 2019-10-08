@@ -1,14 +1,11 @@
-# VB6
-Old school VB6 projects done in my early days.
-
-### Animal Game
+## Animal Game
 ![screen-shot](https://github.com/seljabali/visual-basic-6/blob/master/screen-shots/animal-game.gif)
 
-### Charmed
+## Charmed
 ![screen-shot](https://github.com/seljabali/visual-basic-6/blob/master/screen-shots/charmed.gif)
 
-### Cos Sine
+## Cos Sine
 ![demo](https://github.com/seljabali/visual-basic-6/blob/master/screen-shots/cos-sine.gif)
 
-### Screen Saver
+## Screen Saver
 ![demo](https://github.com/seljabali/visual-basic-6/blob/master/screen-shots/screen-saver.gif)
