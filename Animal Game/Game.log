@@ -1,0 +1,36 @@
+Line 21: Class MCI.MMControl of control MMDino was not a loaded control class.
+Line 33: Class MCI.MMControl of control MMFrog was not a loaded control class.
+Line 85: Class MCI.MMControl of control MMDuck was not a loaded control class.
+Line 97: Class MCI.MMControl of control MMChicken was not a loaded control class.
+Line 109: Class MCI.MMControl of control MMCat was not a loaded control class.
+Line 121: Class MCI.MMControl of control MMDog was not a loaded control class.
+Line 27: The property name _ExtentX in MMDino is invalid.
+Line 28: The property name _ExtentY in MMDino is invalid.
+Line 29: The property name _Version in MMDino is invalid.
+Line 30: The property name DeviceType in MMDino is invalid.
+Line 31: The property name FileName in MMDino is invalid.
+Line 39: The property name _ExtentX in MMFrog is invalid.
+Line 40: The property name _ExtentY in MMFrog is invalid.
+Line 41: The property name _Version in MMFrog is invalid.
+Line 42: The property name DeviceType in MMFrog is invalid.
+Line 43: The property name FileName in MMFrog is invalid.
+Line 91: The property name _ExtentX in MMDuck is invalid.
+Line 92: The property name _ExtentY in MMDuck is invalid.
+Line 93: The property name _Version in MMDuck is invalid.
+Line 94: The property name DeviceType in MMDuck is invalid.
+Line 95: The property name FileName in MMDuck is invalid.
+Line 103: The property name _ExtentX in MMChicken is invalid.
+Line 104: The property name _ExtentY in MMChicken is invalid.
+Line 105: The property name _Version in MMChicken is invalid.
+Line 106: The property name DeviceType in MMChicken is invalid.
+Line 107: The property name FileName in MMChicken is invalid.
+Line 115: The property name _ExtentX in MMCat is invalid.
+Line 116: The property name _ExtentY in MMCat is invalid.
+Line 117: The property name _Version in MMCat is invalid.
+Line 118: The property name DeviceType in MMCat is invalid.
+Line 119: The property name FileName in MMCat is invalid.
+Line 127: The property name _ExtentX in MMDog is invalid.
+Line 128: The property name _ExtentY in MMDog is invalid.
+Line 129: The property name _Version in MMDog is invalid.
+Line 130: The property name DeviceType in MMDog is invalid.
+Line 131: The property name FileName in MMDog is invalid.
