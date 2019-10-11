@@ -11,7 +11,7 @@ An app animating balls moving along sine & cosine function's path of their respe
 ![demo](https://github.com/seljabali/visual-basic-6/blob/master/screen-shots/cos-sine.gif)
 
 ## Set & Destroy
-A game where you're asked to guess the angle at which to hit a target.
+A game where you're asked to guess the angle at which to hit a target. <br> <br> 
 ![demo](https://github.com/seljabali/visual-basic-6/blob/master/screen-shots/set-and-destroy.gif)
 
 ## Screen Saver
